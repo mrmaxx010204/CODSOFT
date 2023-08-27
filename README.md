@@ -1,6 +1,7 @@
 # CODSOFT
 
 Task 1 - Porfolio Website
+Link - https://myportfolio-prince.netlify.app/
 
 My portfolio website is a showcase of my projects, skills, and accomplishments in the field of web development. Crafted using HTML and CSS, it serves as a hub for anyone interested in exploring my work and capabilities.
 
@@ -18,6 +19,7 @@ Simplicity and Clarity: The design philosophy of the website prioritizes simplic
 
 
 Task 2 - Landing Page
+Link - https://personal-info-site.netlify.app/
 
 My landing page is a captivating entry point designed to engage visitors and convey a specific message or call-to-action. Crafted with a blend of design and strategy, the landing page is a key tool in my digital presence.
 
