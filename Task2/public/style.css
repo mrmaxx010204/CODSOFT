@@ -653,7 +653,7 @@ a:-webkit-any-link {
 
 ul {
   list-style: none;
-  color: #fff;
+  color: #fd1f1f;
   font-size: 15px;
   letter-spacing: 0.5px;
 }
@@ -661,7 +661,7 @@ ul {
 ul a {
   text-decoration: none;
   outline: none;
-  color: #fff;
+  color: #ff0000;
   transition: 0.3s;
 }
 
@@ -677,7 +677,9 @@ ul li {
 li i {
   margin-right: 20px;
 }
-
+#foot{
+  color: white;
+}
 .social-media {
   width: 100%;
   color: #fff;
