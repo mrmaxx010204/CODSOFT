@@ -35,7 +35,7 @@ Responsive Design: The landing page is designed to provide a seamless experience
 
 
 Task 3 - Calculator
-Link - 
+Link - https://maxx-calculator.netlify.app/
 
 My calculator is a digital tool designed to simplify mathematical calculations while featuring an interactive user interface (UI) that enhances the user experience. It combines the functionality of a traditional calculator with modern design elements.
 
