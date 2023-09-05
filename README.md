@@ -32,3 +32,20 @@ Clear Message: It communicates a concise and clear message, guiding visitors tow
 Simplicity: The design is intentionally streamlined to avoid distractions and keep the visitor's attention on the primary goal.
 
 Responsive Design: The landing page is designed to provide a seamless experience across various devices, ensuring accessibility for all users.
+
+
+Task 3 - Calculator
+Link - 
+
+My calculator is a digital tool designed to simplify mathematical calculations while featuring an interactive user interface (UI) that enhances the user experience. It combines the functionality of a traditional calculator with modern design elements.
+
+Key Features:
+
+Basic Functions: The calculator includes essential arithmetic operations, such as addition, subtraction, multiplication, and division. Users can perform these calculations with ease.
+
+User-Friendly Interface: The interactive UI features a clean and intuitive design. Large, responsive buttons are easy to click or tap, ensuring a user-friendly experience.
+
+Real-Time Input: As users input calculations, the calculator displays the equation in real-time, making it easy to verify the input and correct any mistakes.
+
+Responsive Design: The calculator is responsive and adaptable to various screen sizes, ensuring usability on both desktop and mobile devices.
+
